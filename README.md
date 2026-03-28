@@ -18,25 +18,32 @@ EasyNoteX is a modern note-taking application that stores your notes securely in
 
 ## 📸 Screenshots
 
-### 🔐 Login Screen
+## 📸 Screenshots
 
-![Login](./screenshots/login.png)
+### 🔐 Login Screen
+<p align="center">
+  <img src="./screenshots/login.png" width="250"/>
+</p>
 
 ### 📝 Notes Dashboard (Light Mode)
-
-![Dashboard Light](./screenshots/dashboard_light.png)
+<p align="center">
+  <img src="./screenshots/dashboard_light.png" width="250"/>
+</p>
 
 ### 🌙 Notes Dashboard (Dark Mode)
-
-![Dashboard Dark](./screenshots/dashboard_dark.png)
+<p align="center">
+  <img src="./screenshots/dashboard_dark.png" width="250"/>
+</p>
 
 ### ➕ Add Note Screen
-
-![Add Note](./screenshots/add_note.png)
+<p align="center">
+  <img src="./screenshots/add_note.png" width="250"/>
+</p>
 
 ### ☁️ Stored JSON File in Google Drive
-
-![Drive Data](./screenshots/drive_data.png)
+<p align="center">
+  <img src="./screenshots/drive_data.png" width="500"/>
+</p>
 
 ---
 
@@ -70,13 +77,13 @@ EasyNoteX is a modern note-taking application that stores your notes securely in
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/EasyNoteX.git
+https://github.com/SohanPendhari/Notes-app.git
 ```
 
 2. Open project folder
 
 ```bash
-cd EasyNoteX
+cd Notes-app
 ```
 
 3. Configure Google API:
